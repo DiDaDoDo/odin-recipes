@@ -6,3 +6,17 @@ body {
 h1 {
     color: red;
 }
+
+h2 {
+    color: blueviolet;
+}
+
+p {
+    text-align: left;
+    font-size: 18px;
+}
+
+.list{
+    background-color: black;
+    color: lightgreen;
+}
